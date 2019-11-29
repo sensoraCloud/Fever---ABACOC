@@ -72,7 +72,7 @@ https://ieeexplore.ieee.org/abstract/document/7373381
 
 Active Incremental Recognition of Human Activities in a Streaming Context
 
-RoccoDe Rosa, Ilaria Gori, Fabio Cuzzolin, Nicolò Cesa-Bianchi
+Rocco De Rosa, Ilaria Gori, Fabio Cuzzolin, Nicolò Cesa-Bianchi
 
 https://www.sciencedirect.com/science/article/abs/pii/S0167865517300715
 
