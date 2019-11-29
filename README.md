@@ -63,10 +63,16 @@ A complete example can be found in the main.cpp file. The dataset used is jvowel
 ## Ref. Pubblications
 
 The ABACOC Algorithm: A Novel Approach for Nonparametric Classification of Data Streams
+
 Rocco De Rosa, Francdesco Orabona, Nicolò Cesa-Bianchi 
+
 https://ieeexplore.ieee.org/abstract/document/7373381
 
+
+
 Active Incremental Recognition of Human Activities in a Streaming Context
+
 RoccoDe Rosa, Ilaria Gori, Fabio Cuzzolin, Nicolò Cesa-Bianchi
+
 https://www.sciencedirect.com/science/article/abs/pii/S0167865517300715
 
