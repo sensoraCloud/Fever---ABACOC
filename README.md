@@ -60,6 +60,10 @@ For the incremental training, we provide two Generator classes (RandomGenerator 
 ## Example
 A complete example can be found in the main.cpp file. The dataset used is jvowels, provided in the format accepted by our readDataset function. To run the example using all the default parameters, you can run: ABACOC -train "path_of_where_you_put_jvowels\train" -test "path_of_where_you_put_jvowels\test".
 
+## MATLAB and JAVA source
+
+You can find in ABACOC\* the MATLAB and Java version of the code. 
+
 ## Ref. Pubblications
 
 The ABACOC Algorithm: A Novel Approach for Nonparametric Classification of Data Streams  
