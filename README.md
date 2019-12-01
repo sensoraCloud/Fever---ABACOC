@@ -68,11 +68,13 @@ You can find in ABACOC\* the MATLAB and Java version of the code.
 
 The ABACOC Algorithm: A Novel Approach for Nonparametric Classification of Data Streams  
 Rocco De Rosa, Francdesco Orabona, Nicolò Cesa-Bianchi  
+2015 IEEE International Conference on Data Mining (ICDM). IEEE, 2015.
 https://ieeexplore.ieee.org/abstract/document/7373381  
 
 
 
 Active Incremental Recognition of Human Activities in a Streaming Context  
 Rocco De Rosa, Ilaria Gori, Fabio Cuzzolin, Nicolò Cesa-Bianchi  
+Pattern Recognition Letters 99 (2017): 48-56
 https://www.sciencedirect.com/science/article/abs/pii/S0167865517300715  
 
