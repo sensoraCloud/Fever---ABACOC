@@ -67,7 +67,7 @@ You can find in ABACOC\* the MATLAB and Java version of the code.
 ## Ref. Pubblications
 
 **The ABACOC Algorithm: A Novel Approach for Nonparametric Classification of Data Streams**  
-Rocco De Rosa, Francdesco Orabona, Nicolò Cesa-Bianchi  
+Rocco De Rosa, Francesco Orabona, Nicolò Cesa-Bianchi  
 2015 IEEE International Conference on Data Mining (ICDM). IEEE, 2015  
 https://ieeexplore.ieee.org/abstract/document/7373381  
 
